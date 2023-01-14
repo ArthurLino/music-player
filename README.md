@@ -1,7 +1,7 @@
 # 🐱‍👤codename: music-player
 
 Recently, the Rocketseat community came up with a new challenge, bringing a project per week.
-Well, this is me version of the first one, a basic ReactJS player built from scratch.
+Well, this is my version of the challenge first project, a basic ReactJS player built from scratch.
 
 ## 🏹 goals
 - [ ] work with HTML audio tag without using it's native UI (audio.controls)
