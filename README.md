@@ -4,8 +4,9 @@ Recently, the Rocketseat community came up with a new challenge, bringing a proj
 Well, this is my version of the challenge first project, a basic ReactJS player built from scratch.
 
 ## 🏹 goals
-- [ ] work with HTML audio tag without using it's native UI (audio.controls)
-  - [ ] custom duration progress bar
+- [X] work with HTML audio tag without using it's native UI (audio.controls)
+  - [X] custom duration progress bar
   - [ ] custom volume progress bar
-- [ ] incremet the UI with React Spring
+  - [X] use the progress bar to make audio go forwards and backwards 
+- [ ] incremet UI interactions with React Spring
 - [ ] get used to css-in-js with stitches
