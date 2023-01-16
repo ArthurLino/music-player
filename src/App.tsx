@@ -127,7 +127,7 @@ function App() {
         </div>
       </main>
       <footer>
-        Da uma olhada:
+        Inspirado no desafio BoraCodar, da Rocketseat.
         <div>
           <a
             href="https://github.com/ArthurLino/music-player/blob/main/README.md"
