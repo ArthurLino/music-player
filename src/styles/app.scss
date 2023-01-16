@@ -70,6 +70,10 @@
 
                 filter: saturate(2);
                 cursor: pointer;
+
+                & > img {
+                    cursor: pointer;
+                }
             }
         }
 
@@ -125,6 +129,8 @@ footer {
 
     img {
         transition: filter .2s ease-in-out;
+        cursor: pointer;
+        
         &:hover {
             filter: saturate(1.75) brightness(2);
         }
