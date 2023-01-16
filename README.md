@@ -8,4 +8,3 @@ Well, this is my version of the challenge first project, a basic ReactJS player 
   - [X] custom duration progress bar
   - [ ] custom volume progress bar
   - [X] use the progress bar to make audio go forwards and backwards 
-- [ ] get used to css-in-js with stitches
