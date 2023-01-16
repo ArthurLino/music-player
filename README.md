@@ -3,7 +3,7 @@
 <p align="center">Recently, the Rocketseat community came up with a new challenge, bringing a project per week.
 Well, this is my version of the challenge first project, a basic ReactJS player built from scratch.</p>
 
-<p align="center"> Check it out:<a href="https://music-player-chi-sable.vercel.app/" target="_blank">https://music-player-chi-sable.vercel.app/</a></p>
+<p align="center"> Check it out: <a href="https://music-player-arthurlino.vercel.app/" target="_blank">https://music-player-chi-sable.vercel.app/</a></p>
 
 <br />
 
