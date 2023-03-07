@@ -14,7 +14,7 @@ Well, this is my version of the challenge's first project, a basic ReactTS playe
 
 <br />
 
-## 👨🏻‍💻 techs and libs
+## 👨🏻‍💻 built with
 - ReactTS
 - SCSS
 
